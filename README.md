@@ -1,3 +1,7 @@
+install ck editor
+php bin console ckeditor:intall --tag=4.22.1
+php bin cons assers:install public
+
 <p align="center">
     <a href="https://sylius.com" target="_blank">
         <picture>

@@ -1,7 +1,7 @@
 {
     "name": "umkipur/syliusproducteditorwysiwyg",
     "type": "sylius-plugin",
-    "description": "Product editor with WYSIWYG for Sylius",
+    "description": "A Sylius plugin to add WYSIWYG editor support for product and category descriptions using FOSCKEditorBundle.",
     "keywords": [
         "sylius",
         "sylius-plugin",
@@ -10,6 +10,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "friendsofsymfony/ckeditor-bundle": "2.4",
         "sylius/sylius": "^2.1"
     },
     "require-dev": {
