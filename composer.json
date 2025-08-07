@@ -1,5 +1,5 @@
 {
-    "name": "sylius/plugin-skeleton",
+    "name": "umkipur/SyliusProductEditorWYSIWSYG",
     "type": "sylius-plugin",
     "description": "Acme example plugin for Sylius.",
     "keywords": [
