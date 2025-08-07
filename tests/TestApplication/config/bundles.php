@@ -1,5 +1,5 @@
 <?php
 
 return [
-    Acme\SyliusExamplePlugin\AcmeSyliusExamplePlugin::class => ['all' => true],
+    Umkipur\SyliusExamplePlugin\UmkipurSyliusExamplePlugin::class => ['all' => true],
 ];
